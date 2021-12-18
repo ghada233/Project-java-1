@@ -1,2 +1,4 @@
 # Project-java-1
-writing logic calculator
+code for logic calculator
+
+<This repo contains Ghada & Asrar & Wafa & Layan attempts to solve the project problem>
