@@ -1,4 +1,4 @@
-//كتب بواسطة غتدة واسرار ووفاء وليان 
+//كتب بواسطة غادة واسرار ووفاء وليان 
 package project;
 import java.util.Scanner;
 public class Project {// Start class 
